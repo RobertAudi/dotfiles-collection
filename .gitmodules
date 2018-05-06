@@ -1,0 +1,75 @@
+[submodule "davidosomething"]
+	path = davidosomething
+	url = https://github.com/davidosomething/dotfiles.git
+[submodule "nicknisi"]
+	path = nicknisi
+	url = https://github.com/nicknisi/dotfiles.git
+[submodule "kassio/dotfiles"]
+	path = kassio/dotfiles
+	url = https://github.com/kassio/dotfiles.git
+[submodule "kassio/nvimfiles"]
+	path = kassio/nvimfiles
+	url = https://github.com/kassio/nvimfiles.git
+[submodule "junegunn"]
+	path = junegunn
+	url = https://github.com/junegunn/dotfiles.git
+[submodule "aspiers/shell-env"]
+	path = aspiers/shell-env
+	url = https://github.com/aspiers/shell-env.git
+[submodule "statico"]
+	path = statico
+	url = https://github.com/statico/dotfiles.git
+[submodule "zanshin"]
+	path = zanshin
+	url = https://github.com/zanshin/dotfiles.git
+[submodule "henrik"]
+	path = henrik
+	url = https://github.com/henrik/dotfiles.git
+[submodule "wincent"]
+	path = wincent
+	url = https://github.com/wincent/wincent.git
+[submodule "keith"]
+	path = keith
+	url = https://github.com/keith/dotfiles.git
+[submodule "gabebw"]
+	path = gabebw
+	url = https://github.com/gabebw/dotfiles.git
+[submodule "MikeMcQuaid"]
+	path = MikeMcQuaid
+	url = https://github.com/MikeMcQuaid/dotfiles.git
+[submodule "myfreeweb"]
+	path = myfreeweb
+	url = https://github.com/myfreeweb/dotfiles.git
+[submodule "justinmk/config"]
+	path = justinmk/config
+	url = https://github.com/justinmk/config.git
+[submodule "rhysd/dogfiles"]
+	path = rhysd/dogfiles
+	url = https://github.com/rhysd/dogfiles.git
+[submodule "ivalkeen"]
+	path = ivalkeen
+	url = https://github.com/ivalkeen/dotfiles.git
+[submodule "raymond-w-ko/dot"]
+	path = raymond-w-ko/dot
+	url = https://github.com/raymond-w-ko/dot.git
+[submodule "thinca/config"]
+	path = thinca/config
+	url = https://github.com/thinca/config.git
+[submodule "tyru"]
+	path = tyru
+	url = https://github.com/tyru/dotfiles.git
+[submodule "caarlos0"]
+	path = caarlos0
+	url = https://github.com/caarlos0/dotfiles.git
+[submodule "Kraymer/F-dotfiles"]
+	path = Kraymer/F-dotfiles
+	url = https://github.com/Kraymer/F-dotfiles.git
+[submodule "xu-cheng"]
+	path = xu-cheng
+	url = https://github.com/xu-cheng/dotfiles.git
+[submodule "grml/grml-etc-core"]
+	path = grml/grml-etc-core
+	url = https://github.com/grml/grml-etc-core.git
+[submodule "thoughtstream/Damian-Conway-s-Vim-Setup"]
+	path = thoughtstream/Damian-Conway-s-Vim-Setup
+	url = https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup.git
