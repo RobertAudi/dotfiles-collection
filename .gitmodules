@@ -73,3 +73,9 @@
 [submodule "thoughtstream/Damian-Conway-s-Vim-Setup"]
 	path = thoughtstream/Damian-Conway-s-Vim-Setup
 	url = https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup.git
+[submodule "hlissner/dotfiles"]
+	path = hlissner/dotfiles
+	url = https://github.com/hlissner/dotfiles.git
+[submodule "hlissner/.vim"]
+	path = hlissner/.vim
+	url = https://github.com/hlissner/.vim.git
