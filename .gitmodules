@@ -82,3 +82,6 @@
 [submodule "kutsan"]
 	path = kutsan
 	url = https://github.com/kutsan/dotfiles.git
+[submodule "AndrewRadev/Vimfiles"]
+	path = AndrewRadev/Vimfiles
+	url = https://github.com/AndrewRadev/Vimfiles.git
