@@ -79,3 +79,6 @@
 [submodule "hlissner/.vim"]
 	path = hlissner/.vim
 	url = https://github.com/hlissner/.vim.git
+[submodule "kutsan"]
+	path = kutsan
+	url = https://github.com/kutsan/dotfiles.git
