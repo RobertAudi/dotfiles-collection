@@ -85,3 +85,6 @@
 [submodule "AndrewRadev/Vimfiles"]
 	path = AndrewRadev/Vimfiles
 	url = https://github.com/AndrewRadev/Vimfiles.git
+[submodule "halo/dotfiles"]
+	path = halo/dotfiles
+	url = https://github.com/halo/dotfiles
