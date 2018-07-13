@@ -88,3 +88,6 @@
 [submodule "halo/dotfiles"]
 	path = halo/dotfiles
 	url = https://github.com/halo/dotfiles
+[submodule "niw/profiles"]
+	path = niw/profiles
+	url = https://github.com/niw/profiles.git
