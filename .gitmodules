@@ -91,3 +91,9 @@
 [submodule "niw/profiles"]
 	path = niw/profiles
 	url = https://github.com/niw/profiles.git
+[submodule "rafi/vim-config"]
+	path = rafi/vim-config
+	url = https://github.com/rafi/vim-config
+[submodule "rafi/.config"]
+	path = rafi/.config
+	url = https://github.com/rafi/.config.git
