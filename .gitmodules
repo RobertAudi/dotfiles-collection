@@ -97,3 +97,6 @@
 [submodule "rafi/.config"]
 	path = rafi/.config
 	url = https://github.com/rafi/.config.git
+[submodule "yonchu/dotfiles"]
+	path = yonchu/dotfiles
+	url = https://github.com/yonchu/dotfiles
